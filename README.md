@@ -1,4 +1,4 @@
-# Dev Portfolio Snapshot 📁
+# Dev Portfolio Snapshot 
 
 Welcome to the **Dev Portfolio Snapshot** repository! This repository is a collection of my professional journey, projects, skills, and accomplishments as a software engineer and technical architect. It serves as a showcase of my technical expertise and the work I have accomplished over the years.
 
